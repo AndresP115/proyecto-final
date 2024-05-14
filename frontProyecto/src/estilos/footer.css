@@ -1,0 +1,7 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Cambia el color de fondo según tus preferencias */
+    padding: 20px; /* Ajusta el relleno según sea necesario */
+}

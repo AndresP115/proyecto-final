@@ -1,0 +1,9 @@
+.login-container {
+    margin-top: 50px; /* Separación desde arriba */
+    margin-bottom: 50px; /* Separación desde abajo */
+    padding: 20px; /* Espacio interno para el formulario */
+    border: 1px solid #ccc; /* Borde para resaltar el área del formulario */
+    border-radius: 10px; /* Bordes redondeados para un aspecto más agradable */
+}
+
+

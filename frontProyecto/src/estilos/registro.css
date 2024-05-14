@@ -1,0 +1,42 @@
+.contenedor {
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ccc; /* Borde para resaltar el área del formulario */
+    border-radius: 10px; /* Bordes redondeados para un aspecto más agradable */
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    margin-bottom: 20%;
+  }
+  
+  .contenedor label {
+    margin-bottom: 8px;
+  }
+  
+  .contenedor input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin: 5px 30px ;
+  }
+  
+  .contenedor button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    margin: 5px 50px ;
+  }
+  
+  .contenedor button:hover {
+    background-color: #0056b3;
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
